@@ -1,0 +1,2 @@
+./logical_or_error.sh: line 16: unexpected EOF while looking for matching `''
+./logical_or_error.sh: line 18: syntax error: unexpected end of file
