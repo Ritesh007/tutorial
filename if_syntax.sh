@@ -7,5 +7,5 @@
 
 a=10
 if [[ $a == 10 ]]; then
-  echo 'inside if loop'
+  echo 'inside if condition'
 fi

@@ -6,6 +6,6 @@
 #################################
 
 if [[ !($a) ]]; then
-  echo 'a is not empty'
+  echo 'a is empty'
 fi
 

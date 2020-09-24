@@ -15,3 +15,10 @@ if [[ $a == 20 || $b == 20 ]]; then
 else
   echo 'outside logical or'
 fi
+
+
+# Condition1 Codition2 LogicalAND
+# True       True      True
+# True       False     True
+# False      True      True
+# False      False     False

@@ -5,7 +5,6 @@
 # python script 4
 ########################
 
-# This will not work!
 
 one = 1
 two = 2

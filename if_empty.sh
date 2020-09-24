@@ -11,5 +11,5 @@ if [[ $a ]]; then
 fi
 
 if [[ $b ]]; then
-  echo 'b is not empty'
+  echo 'b is empty'
 fi

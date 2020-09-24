@@ -6,11 +6,11 @@
 #################################
 
 # if directory exists
-if [[ -d /home/ubuntu/tutorial/tutorial ]]; then
+if [[ -d /Users/riteshkumarreddykuchukulla/GitHub/tutorial ]]; then
   echo 'tutorial directory exists'
 fi
 
 # if directory doesn't exist
-if [[ !(-d /home/ubuntu/tutorial/test) ]]; then
+if [[ !(-d /Users/riteshkumarreddykuchukulla/GitHub/tutorial/test) ]]; then
   echo 'test doesnt exist'
 fi
