@@ -1,1 +1,1 @@
-Shell basic commands
+Shell & Python basics
