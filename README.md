@@ -1,1 +1,1 @@
-Shell & Python basics
+Shell, TypeScript & Python basics
