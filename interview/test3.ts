@@ -114,4 +114,3 @@ input2 = push(input2, 4);
 const addedll = addLinkedList(input1,input2);
 
 console.log(reverse(addedll));
-
